@@ -18,10 +18,13 @@ pip install networkx
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+### Progress
 
-Explain how to run the automated tests for this system
-
+ 1. calculate monthly return rate of each stock
+ 2. calculate monthly sector return rate
+ 3. calculate correlation among sectors
+ 4. visulaize sector network
+ 
 ### Break down into end to end tests
 
 Explain what these tests test and why
@@ -42,16 +45,7 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
