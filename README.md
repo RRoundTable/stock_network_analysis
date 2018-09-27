@@ -25,27 +25,11 @@ End with an example of getting some data out of the system or using it for a lit
  3. calculate correlation among sectors
  4. visulaize sector network
  
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
+### result
+ 1. degree
+  ![degree](https://1drv.ms/u/s!Aue5JNE50VRlviDBOa5b3ECUX9k3)
+  ![network](https://1drv.ms/u/s!Aue5JNE50VRlvh8kYeg7qUIjv2ag)
+ 2. network
 
 ## Authors
 
