@@ -27,10 +27,10 @@ End with an example of getting some data out of the system or using it for a lit
  
 ### result
  1. degree
-  ![degree](https://1drv.ms/u/s!Aue5JNE50VRlviDBOa5b3ECUX9k3)
-  ![network](https://1drv.ms/u/s!Aue5JNE50VRlvh8kYeg7qUIjv2ag)
+  ![degree](C:\Users\ryu07\OneDrive\포트폴리오\미래에셋대우\이상치제거Degree)
  2. network
-
+  ![network](C:\Users\ryu07\OneDrive\포트폴리오\미래에셋대우\이상치제거)
+ 
 ## Authors
 
 * **Wontak Ryu**  - [Linkedin](https://www.linkedin.com/in/wontak-ryu-bb26b4137/)
