@@ -27,9 +27,9 @@ End with an example of getting some data out of the system or using it for a lit
  
 ### result
  1. degree
-  ![degree](C:/Users/ryu07/OneDrive/포트폴리오/미래에셋대우/이상치제거Degree)
+  ![degree](./img/degree)
  2. network
-  ![network](C:/Users/ryu07/OneDrive/포트폴리오/미래에셋대우/이상치제거)
+  ![network](./img/network)
  
 ## Authors
 
