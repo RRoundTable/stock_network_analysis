@@ -27,10 +27,11 @@ End with an example of getting some data out of the system or using it for a lit
  
 ### result
  1. degree
-  ![degree](./img/degree)
- 2. network
-  ![network](./img/network)
- 
+  ![degree](https://github.com/RRoundTable/stock_network_analysis/blob/master/img/degree.png?raw=true)
+ 2. sector network
+  ![network](https://github.com/RRoundTable/stock_network_analysis/blob/master/img/sector_network.png?raw=true)
+ 3. stock sector network
+  ![stock_sector_network](https://github.com/RRoundTable/stock_network_analysis/blob/master/img/stock_network.png?raw=true)
 ## Authors
 
 * **Wontak Ryu**  - [Linkedin](https://www.linkedin.com/in/wontak-ryu-bb26b4137/)
